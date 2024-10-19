@@ -1,3 +1,25 @@
+
+Here is the English translation:
+
+General Description: Use Excel VBA to retrieve data from NetSuite for analysis.
+
+Implementation Method: VBA is used to retrieve data from NetSuite and store it locally in JSON format. Then, Power Query is used to parse the JSON file into an Excel sheet.
+
+Usage:
+
+Before use, please fill in the relevant parameters; then, in the query list, based on the provided sample, enter the content you want to query.
+Place the cursor on the name of the query you want to execute and click to run it.
+Data from NetSuite will never be updated at any time.
+During execution, in addition to pop-up boxes, any error messages will appear in the "ErrorMsg" sheet.
+If you want to modify the field names in the query result, you can modify them in the Query field description section.
+Parameter Description:
+
+In the parameters, "KeyFileName" specifies the key file, where you need to fill in the NetSuite login information according to the "NetSuiteKey.json" file.
+The "JSON File Directory" parameter indicates the directory where the data retrieved from NetSuite will be stored as a JSON file.
+Issue Reporting: ziphei@outlook.com
+
+
+
 1	总体说明:	
       通过excel VBA获取NetSuite的数据用于分析。
 
