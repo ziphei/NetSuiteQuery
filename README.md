@@ -13,6 +13,7 @@
       
 4	参数说明:
         1、参数中KeyFielName是指定的密钥文件，根据NetSuiteKey.json文件填写NetSuite的登录信息
-        2、参数中Json文件目录是存放从NetSuite中获取数据后以json文件存储的目录"
+        2、参数中Json文件目录是存放从NetSuite中获取数据后以json文件存储的目录
+
 5	问题反馈:
     ziphei@outlook.com
