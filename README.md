@@ -1,6 +1,4 @@
 
-Here is the English translation:
-
 General Description: Use Excel VBA to retrieve data from NetSuite for analysis.
 
 Implementation Method: VBA is used to retrieve data from NetSuite and store it locally in JSON format. Then, Power Query is used to parse the JSON file into an Excel sheet.
